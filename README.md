@@ -1,9 +1,5 @@
-# PROJECT TITLE - PLEASE CHANGE
+# PROJECT TITLE - NYC Flights
 
-*(For the final version remove this text and write a short descriptive text about the project. A full abstract/executive summary should be the beginning of your project report: qmd -> html.)*
+*First Homework Project done at Data Science Concepts course in Constructor University*
 
-Next steps:
-
-- Edit the [Workplan](WORKPLAN.md)
-- Edit the [Timeline and Tasks](TIMELINE_TASKS.md)
 
